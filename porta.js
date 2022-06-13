@@ -25,16 +25,3 @@ return;
 condic(sense1,sense2,sense3,sense4);
 
 
-switch (condic) {
-
-case false:
-  console.log(result2);
-break;
-
-case true:
-console.log (result);  
-break;
-}
-
-
-
